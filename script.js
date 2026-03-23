@@ -4,7 +4,7 @@
 const SUPABASE_URL = 'https://jccwdmbdmuplwxmhrjbx.supabase.co'; // e.g., https://your-project.supabase.co
 const SUPABASE_KEY = 'sb_publishable_ulo95oWokhNh_TA4rs5tmw_8VBAk8-c'; // Your public anon key
 const BUCKET_NAME = 'images'; // Storage bucket name
-const IMAGE_PATH = 'https://jccwdmbdmuplwxmhrjbx.supabase.co/storage/v1/object/public/images/1003470839.jpg'; // Path to your image in Supabase
+const IMAGE_PATH = '1003470839.jpg'; // Path to your image in Supabase
 // ============================================
 
 let supabaseClient = null;
